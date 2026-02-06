@@ -43,14 +43,14 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "ENOUGH?"                           // Shows when they go past 100%
+        high: "MOREE",              // Shows when they go past 1000%
+        normal: "ONLY?"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "YAYYY",
-        message: "GUESS WHAT I STILL LOVE YOU MORE",
+        message: "Guess what though.. I still love you moree",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
