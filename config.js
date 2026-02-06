@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
+            text: "Do you love me more than I love you? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "YAYYY",
-        message: "Guess what though.. I still love you moree",
+        title: "GUESS WHAT",
+        message: "I STILL LOVE YOU MORE",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
