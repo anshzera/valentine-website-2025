@@ -44,13 +44,13 @@ const CONFIG = {
     loveMessages: {
         extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
         high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        normal: "ENOUGH?"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "GUESS WHAT 🎉💝💖💝💓",
-        message: "I STILL LOVE YOU MORE",
+        title: "YAYYY",
+        message: "GUESS WHAT I STILL LOVE YOU MORE",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
@@ -81,7 +81,7 @@ const CONFIG = {
         musicUrl: "https://res.cloudinary.com/dljgrot2z/video/upload/v1770346899/Clara_La_San_-_In_This_Darkness_Lyric_Video_OG_version_4_gxgdye.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
+        volume: 0.3                        // Volume level (0.0 to 1.0)
     }
 };
 
